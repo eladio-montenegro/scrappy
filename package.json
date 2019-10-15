@@ -1,0 +1,20 @@
+{
+  "name": "scrappy",
+  "version": "1.0.0",
+  "description": "A web app that lets users view and leave comment on articles that have been scrapped from the New York Times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eladio-montenegro/scrappy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eladio-montenegro/scrappy/issues"
+  },
+  "homepage": "https://github.com/eladio-montenegro/scrappy#readme"
+}
